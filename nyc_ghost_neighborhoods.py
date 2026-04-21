@@ -680,6 +680,14 @@ _CSS = """
   .card .label { font-size: 12px; color: #64748b; text-transform: uppercase;
                  letter-spacing: 0.05em; }
   .card h3 { margin: 4px 0 8px 0; font-size: 17px; }
+  .card.alert { position: relative; background: linear-gradient(180deg, rgba(239,68,68,0.08), rgba(239,68,68,0.02)),
+                #fff; border-color: rgba(239,68,68,0.3); border-left: 3px solid #ef4444; padding: 22px 26px 24px; }
+  .card.alert .label { color: #ef4444; letter-spacing: 0.22em; font-weight: 700; }
+  .card.alert h3 { font-size: 22px; color: #0f172a; font-weight: 800; margin: 8px 0 12px; max-width: 680px; }
+  .card.alert .stats { color: #475569; font-size: 14px; max-width: 680px; }
+  .card.alert .date-chip { position: absolute; top: 18px; right: 20px; font-family: 'JetBrains Mono', monospace;
+                           font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase; color: #ef4444;
+                           font-weight: 700; border: 1px solid rgba(239,68,68,0.42); padding: 4px 10px; background: rgba(239,68,68,0.06); }
   .stats { color: #475569; font-size: 13px; }
   .grid { display: grid; grid-template-columns: 1fr 260px; gap: 16px; align-items: center; }
   .grid svg { display: block; }
@@ -768,11 +776,13 @@ def _render_main_html(
         from collections import Counter as _Counter
         mode_month, mode_count = _Counter(trough_months).most_common(1)[0]
         if mode_count >= max(3, len(trough_months) // 2):
+            _ym = _fmt_ym(mode_month).replace("-", " &middot; ")
             mass_extinction = (
-                f'<div class=card style="background:#fef2f2; border-color:#fecaca">'
-                f'<div class=label>mass extinction event</div>'
+                f'<div class="card alert">'
+                f'<div class=date-chip>{_ym}</div>'
+                f'<div class=label>Mass extinction event</div>'
                 f'<h3>{mode_count} of {len(trough_months)} resurrected zones bottomed '
-                f'in the same month: {_fmt_ym(mode_month)}.</h3>'
+                f'in the same month.</h3>'
                 f'<div class=stats>When the data is allowed to speak, the pandemic shows up '
                 f'as a single visible knife-cut across NYC&rsquo;s busiest neighborhoods.</div>'
                 f'</div>'
