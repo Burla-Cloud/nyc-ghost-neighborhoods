@@ -1,0 +1,322 @@
+{
+  "total_trips": 2758715765,
+  "n_months": 168,
+  "n_zones": 264,
+  "n_tasks": 371,
+  "elapsed_s": 14.48,
+  "category_counts": {
+    "stable": 12,
+    "emergent": 135,
+    "cooling": 56,
+    "warming": 57,
+    "ghost": 2,
+    "unknown": 1
+  },
+  "ghosts": [
+    {
+      "zone_id": 12,
+      "zone": "Battery Park",
+      "borough": "Manhattan",
+      "peak_month": 201107,
+      "peak_volume": 11483,
+      "recent_mean": 3694.1
+    },
+    {
+      "zone_id": 194,
+      "zone": "Randalls Island",
+      "borough": "Manhattan",
+      "peak_month": 201905,
+      "peak_volume": 10330,
+      "recent_mean": 3593.2
+    },
+    {
+      "zone_id": 43,
+      "zone": "Central Park",
+      "borough": "Manhattan",
+      "peak_month": 201105,
+      "peak_volume": 219763,
+      "recent_mean": 86951.5
+    },
+    {
+      "zone_id": 93,
+      "zone": "Flushing Meadows-Corona Park",
+      "borough": "Queens",
+      "peak_month": 202209,
+      "peak_volume": 45111,
+      "recent_mean": 18212.1
+    },
+    {
+      "zone_id": 186,
+      "zone": "Penn Station/Madison Sq West",
+      "borough": "Manhattan",
+      "peak_month": 201203,
+      "peak_volume": 478490,
+      "recent_mean": 241276.4
+    },
+    {
+      "zone_id": 162,
+      "zone": "Midtown East",
+      "borough": "Manhattan",
+      "peak_month": 201103,
+      "peak_volume": 536481,
+      "recent_mean": 276740.7
+    },
+    {
+      "zone_id": 107,
+      "zone": "Gramercy",
+      "borough": "Manhattan",
+      "peak_month": 201203,
+      "peak_volume": 436977,
+      "recent_mean": 226530.0
+    },
+    {
+      "zone_id": 48,
+      "zone": "Clinton East",
+      "borough": "Manhattan",
+      "peak_month": 201903,
+      "peak_volume": 538477,
+      "recent_mean": 284879.2
+    },
+    {
+      "zone_id": 100,
+      "zone": "Garment District",
+      "borough": "Manhattan",
+      "peak_month": 201903,
+      "peak_volume": 314989,
+      "recent_mean": 166833.5
+    },
+    {
+      "zone_id": 234,
+      "zone": "Union Sq",
+      "borough": "Manhattan",
+      "peak_month": 201903,
+      "peak_volume": 566776,
+      "recent_mean": 300982.6
+    },
+    {
+      "zone_id": 166,
+      "zone": "Morningside Heights",
+      "borough": "Manhattan",
+      "peak_month": 201903,
+      "peak_volume": 197890,
+      "recent_mean": 105637.9
+    },
+    {
+      "zone_id": 170,
+      "zone": "Murray Hill",
+      "borough": "Manhattan",
+      "peak_month": 201303,
+      "peak_volume": 524994,
+      "recent_mean": 280531.8
+    }
+  ],
+  "emergents": [
+    {
+      "zone_id": 86,
+      "zone": "Far Rockaway",
+      "borough": "Queens",
+      "birth_mean": 43.9,
+      "recent_mean": 42053.8,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 81,
+      "zone": "Eastchester",
+      "borough": "Bronx",
+      "birth_mean": 64.4,
+      "recent_mean": 54723.8,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 183,
+      "zone": "Pelham Bay",
+      "borough": "Bronx",
+      "birth_mean": 30.1,
+      "recent_mean": 25531.0,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 35,
+      "zone": "Brownsville",
+      "borough": "Brooklyn",
+      "birth_mean": 156.4,
+      "recent_mean": 120262.8,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 259,
+      "zone": "Woodlawn/Wakefield",
+      "borough": "Bronx",
+      "birth_mean": 85.8,
+      "recent_mean": 64601.8,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 77,
+      "zone": "East New York/Pennsylvania Avenue",
+      "borough": "Brooklyn",
+      "birth_mean": 83.0,
+      "recent_mean": 58412.8,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 254,
+      "zone": "Williamsbridge/Olinville",
+      "borough": "Bronx",
+      "birth_mean": 141.6,
+      "recent_mean": 95214.6,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 109,
+      "zone": "Great Kills",
+      "borough": "Staten Island",
+      "birth_mean": 21.6,
+      "recent_mean": 13277.4,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 51,
+      "zone": "Co-Op City",
+      "borough": "Bronx",
+      "birth_mean": 128.3,
+      "recent_mean": 76650.5,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 222,
+      "zone": "Starrett City",
+      "borough": "Brooklyn",
+      "birth_mean": 43.9,
+      "recent_mean": 24413.8,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 20,
+      "zone": "Belmont",
+      "borough": "Bronx",
+      "birth_mean": 107.3,
+      "recent_mean": 58281.2,
+      "first_active_month": 201101
+    },
+    {
+      "zone_id": 117,
+      "zone": "Hammels/Arverne",
+      "borough": "Queens",
+      "birth_mean": 59.3,
+      "recent_mean": 31283.3,
+      "first_active_month": 201101
+    }
+  ],
+  "resurrected": [
+    {
+      "zone_id": 138,
+      "zone": "LaGuardia Airport",
+      "borough": "Queens",
+      "peak_volume": 609926,
+      "trough_month": 202004,
+      "trough_volume": 10717,
+      "recent_mean": 502846.5
+    },
+    {
+      "zone_id": 132,
+      "zone": "JFK Airport",
+      "borough": "Queens",
+      "peak_volume": 603431,
+      "trough_month": 202004,
+      "trough_volume": 13689,
+      "recent_mean": 526788.8
+    },
+    {
+      "zone_id": 158,
+      "zone": "Meatpacking/West Village West",
+      "borough": "Manhattan",
+      "peak_volume": 246119,
+      "trough_month": 202004,
+      "trough_volume": 4569,
+      "recent_mean": 154779.8
+    },
+    {
+      "zone_id": 12,
+      "zone": "Battery Park",
+      "borough": "Manhattan",
+      "peak_volume": 11483,
+      "trough_month": 202004,
+      "trough_volume": 126,
+      "recent_mean": 3694.1
+    },
+    {
+      "zone_id": 114,
+      "zone": "Greenwich Village South",
+      "borough": "Manhattan",
+      "peak_volume": 270940,
+      "trough_month": 202004,
+      "trough_volume": 6981,
+      "recent_mean": 178986.8
+    },
+    {
+      "zone_id": 211,
+      "zone": "SoHo",
+      "borough": "Manhattan",
+      "peak_volume": 201739,
+      "trough_month": 202004,
+      "trough_volume": 5701,
+      "recent_mean": 143021.4
+    },
+    {
+      "zone_id": 161,
+      "zone": "Midtown Center",
+      "borough": "Manhattan",
+      "peak_volume": 617692,
+      "trough_month": 202004,
+      "trough_volume": 16103,
+      "recent_mean": 393324.3
+    },
+    {
+      "zone_id": 144,
+      "zone": "Little Italy/NoLiTa",
+      "borough": "Manhattan",
+      "peak_volume": 273363,
+      "trough_month": 202004,
+      "trough_volume": 7821,
+      "recent_mean": 180902.1
+    },
+    {
+      "zone_id": 163,
+      "zone": "Midtown North",
+      "borough": "Manhattan",
+      "peak_volume": 432388,
+      "trough_month": 202004,
+      "trough_volume": 12172,
+      "recent_mean": 262790.8
+    },
+    {
+      "zone_id": 249,
+      "zone": "West Village",
+      "borough": "Manhattan",
+      "peak_volume": 379452,
+      "trough_month": 202004,
+      "trough_volume": 12376,
+      "recent_mean": 266027.1
+    },
+    {
+      "zone_id": 246,
+      "zone": "West Chelsea/Hudson Yards",
+      "borough": "Manhattan",
+      "peak_volume": 374949,
+      "trough_month": 202004,
+      "trough_volume": 12803,
+      "recent_mean": 274427.2
+    },
+    {
+      "zone_id": 164,
+      "zone": "Midtown South",
+      "borough": "Manhattan",
+      "peak_volume": 443030,
+      "trough_month": 202004,
+      "trough_volume": 15218,
+      "recent_mean": 288444.5
+    }
+  ],
+  "generated_at_utc": "2026-04-19T01:00:41+00:00"
+}

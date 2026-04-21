@@ -1,0 +1,3341 @@
+[
+  {
+    "task": "green_tripdata_2024-12",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 12,
+    "total_rows": 53994,
+    "rows_with_zone": 53976,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2024-10",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 10,
+    "total_rows": 56147,
+    "rows_with_zone": 56140,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "yellow_tripdata_2020-04",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 4,
+    "total_rows": 238073,
+    "rows_with_zone": 237941,
+    "elapsed_s": 0.4
+  },
+  {
+    "task": "yellow_tripdata_2020-06",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 6,
+    "total_rows": 549797,
+    "rows_with_zone": 549788,
+    "elapsed_s": 0.52
+  },
+  {
+    "task": "yellow_tripdata_2020-05",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 5,
+    "total_rows": 348415,
+    "rows_with_zone": 348392,
+    "elapsed_s": 0.42
+  },
+  {
+    "task": "green_tripdata_2018-09",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 9,
+    "total_rows": 682032,
+    "rows_with_zone": 681885,
+    "elapsed_s": 0.49
+  },
+  {
+    "task": "green_tripdata_2019-02",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 2,
+    "total_rows": 615594,
+    "rows_with_zone": 615512,
+    "elapsed_s": 0.47
+  },
+  {
+    "task": "green_tripdata_2019-08",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 8,
+    "total_rows": 449695,
+    "rows_with_zone": 449659,
+    "elapsed_s": 0.44
+  },
+  {
+    "task": "green_tripdata_2019-11",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 11,
+    "total_rows": 449500,
+    "rows_with_zone": 449467,
+    "elapsed_s": 0.42
+  },
+  {
+    "task": "green_tripdata_2019-10",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 10,
+    "total_rows": 476386,
+    "rows_with_zone": 476354,
+    "elapsed_s": 0.48
+  },
+  {
+    "task": "green_tripdata_2019-12",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 12,
+    "total_rows": 455294,
+    "rows_with_zone": 455232,
+    "elapsed_s": 0.45
+  },
+  {
+    "task": "green_tripdata_2020-02",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 2,
+    "total_rows": 398632,
+    "rows_with_zone": 398607,
+    "elapsed_s": 0.42
+  },
+  {
+    "task": "green_tripdata_2020-03",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 3,
+    "total_rows": 223496,
+    "rows_with_zone": 223474,
+    "elapsed_s": 0.4
+  },
+  {
+    "task": "green_tripdata_2020-06",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 6,
+    "total_rows": 63110,
+    "rows_with_zone": 63108,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2020-05",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 5,
+    "total_rows": 57361,
+    "rows_with_zone": 57361,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2020-04",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 4,
+    "total_rows": 35644,
+    "rows_with_zone": 35638,
+    "elapsed_s": 0.31
+  },
+  {
+    "task": "green_tripdata_2020-07",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 7,
+    "total_rows": 72258,
+    "rows_with_zone": 72252,
+    "elapsed_s": 0.32
+  },
+  {
+    "task": "green_tripdata_2020-08",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 8,
+    "total_rows": 81063,
+    "rows_with_zone": 81060,
+    "elapsed_s": 0.35
+  },
+  {
+    "task": "green_tripdata_2020-09",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 9,
+    "total_rows": 87987,
+    "rows_with_zone": 87978,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2020-10",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 10,
+    "total_rows": 95120,
+    "rows_with_zone": 95111,
+    "elapsed_s": 0.41
+  },
+  {
+    "task": "green_tripdata_2020-12",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 12,
+    "total_rows": 83130,
+    "rows_with_zone": 83127,
+    "elapsed_s": 0.35
+  },
+  {
+    "task": "green_tripdata_2020-11",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 11,
+    "total_rows": 88605,
+    "rows_with_zone": 88603,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2021-02",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 2,
+    "total_rows": 64572,
+    "rows_with_zone": 64570,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2021-01",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 1,
+    "total_rows": 76518,
+    "rows_with_zone": 76515,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2021-03",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 3,
+    "total_rows": 83827,
+    "rows_with_zone": 83827,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2021-05",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 5,
+    "total_rows": 88180,
+    "rows_with_zone": 88173,
+    "elapsed_s": 0.48
+  },
+  {
+    "task": "green_tripdata_2021-04",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 4,
+    "total_rows": 86941,
+    "rows_with_zone": 86928,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2021-06",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 6,
+    "total_rows": 86737,
+    "rows_with_zone": 86735,
+    "elapsed_s": 0.37
+  },
+  {
+    "task": "green_tripdata_2021-07",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 7,
+    "total_rows": 83691,
+    "rows_with_zone": 83673,
+    "elapsed_s": 0.35
+  },
+  {
+    "task": "green_tripdata_2021-08",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 8,
+    "total_rows": 83499,
+    "rows_with_zone": 83489,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2021-10",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 10,
+    "total_rows": 110891,
+    "rows_with_zone": 110884,
+    "elapsed_s": 0.35
+  },
+  {
+    "task": "green_tripdata_2021-09",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 9,
+    "total_rows": 95709,
+    "rows_with_zone": 95702,
+    "elapsed_s": 0.35
+  },
+  {
+    "task": "green_tripdata_2022-01",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 1,
+    "total_rows": 62495,
+    "rows_with_zone": 62491,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2021-11",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 11,
+    "total_rows": 108229,
+    "rows_with_zone": 108222,
+    "elapsed_s": 0.36
+  },
+  {
+    "task": "green_tripdata_2022-02",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 2,
+    "total_rows": 69399,
+    "rows_with_zone": 69376,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2021-12",
+    "taxi_type": "green",
+    "year": 2021,
+    "month": 12,
+    "total_rows": 99961,
+    "rows_with_zone": 99955,
+    "elapsed_s": 0.35
+  },
+  {
+    "task": "green_tripdata_2022-03",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 3,
+    "total_rows": 78537,
+    "rows_with_zone": 78513,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2022-04",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 4,
+    "total_rows": 76136,
+    "rows_with_zone": 76101,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2022-05",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 5,
+    "total_rows": 76891,
+    "rows_with_zone": 76874,
+    "elapsed_s": 0.36
+  },
+  {
+    "task": "green_tripdata_2022-06",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 6,
+    "total_rows": 73718,
+    "rows_with_zone": 73709,
+    "elapsed_s": 0.35
+  },
+  {
+    "task": "green_tripdata_2022-08",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 8,
+    "total_rows": 65929,
+    "rows_with_zone": 65915,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2022-07",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 7,
+    "total_rows": 64192,
+    "rows_with_zone": 64188,
+    "elapsed_s": 0.38
+  },
+  {
+    "task": "green_tripdata_2022-10",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 10,
+    "total_rows": 69322,
+    "rows_with_zone": 69309,
+    "elapsed_s": 0.37
+  },
+  {
+    "task": "green_tripdata_2022-09",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 9,
+    "total_rows": 69031,
+    "rows_with_zone": 69016,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2023-01",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 1,
+    "total_rows": 68211,
+    "rows_with_zone": 68207,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2022-12",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 12,
+    "total_rows": 72439,
+    "rows_with_zone": 72423,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2023-02",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 2,
+    "total_rows": 64809,
+    "rows_with_zone": 64783,
+    "elapsed_s": 0.32
+  },
+  {
+    "task": "green_tripdata_2022-11",
+    "taxi_type": "green",
+    "year": 2022,
+    "month": 11,
+    "total_rows": 62313,
+    "rows_with_zone": 62289,
+    "elapsed_s": 0.37
+  },
+  {
+    "task": "green_tripdata_2023-03",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 3,
+    "total_rows": 72044,
+    "rows_with_zone": 72035,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2023-04",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 4,
+    "total_rows": 65392,
+    "rows_with_zone": 65389,
+    "elapsed_s": 0.37
+  },
+  {
+    "task": "green_tripdata_2023-07",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 7,
+    "total_rows": 61343,
+    "rows_with_zone": 61334,
+    "elapsed_s": 0.38
+  },
+  {
+    "task": "green_tripdata_2023-06",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 6,
+    "total_rows": 65550,
+    "rows_with_zone": 65538,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2023-08",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 8,
+    "total_rows": 60649,
+    "rows_with_zone": 60638,
+    "elapsed_s": 0.35
+  },
+  {
+    "task": "green_tripdata_2023-09",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 9,
+    "total_rows": 65471,
+    "rows_with_zone": 65433,
+    "elapsed_s": 0.32
+  },
+  {
+    "task": "green_tripdata_2023-05",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 5,
+    "total_rows": 69174,
+    "rows_with_zone": 69168,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2023-11",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 11,
+    "total_rows": 64025,
+    "rows_with_zone": 64011,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2024-01",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 1,
+    "total_rows": 56551,
+    "rows_with_zone": 56549,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2023-10",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 10,
+    "total_rows": 66177,
+    "rows_with_zone": 66172,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2023-12",
+    "taxi_type": "green",
+    "year": 2023,
+    "month": 12,
+    "total_rows": 64215,
+    "rows_with_zone": 64211,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2024-05",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 5,
+    "total_rows": 61003,
+    "rows_with_zone": 60994,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2024-04",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 4,
+    "total_rows": 56471,
+    "rows_with_zone": 56467,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2024-07",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 7,
+    "total_rows": 51837,
+    "rows_with_zone": 51811,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2024-02",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 2,
+    "total_rows": 53577,
+    "rows_with_zone": 53571,
+    "elapsed_s": 0.32
+  },
+  {
+    "task": "green_tripdata_2024-08",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 8,
+    "total_rows": 51771,
+    "rows_with_zone": 51751,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2024-09",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 9,
+    "total_rows": 54440,
+    "rows_with_zone": 54406,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "green_tripdata_2024-03",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 3,
+    "total_rows": 57457,
+    "rows_with_zone": 57447,
+    "elapsed_s": 0.34
+  },
+  {
+    "task": "green_tripdata_2024-06",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 6,
+    "total_rows": 54748,
+    "rows_with_zone": 54735,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "yellow_tripdata_2020-07",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 7,
+    "total_rows": 800412,
+    "rows_with_zone": 800402,
+    "elapsed_s": 0.61
+  },
+  {
+    "task": "yellow_tripdata_2020-08",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 8,
+    "total_rows": 1007286,
+    "rows_with_zone": 1007270,
+    "elapsed_s": 0.57
+  },
+  {
+    "task": "yellow_tripdata_2020-12",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 12,
+    "total_rows": 1461898,
+    "rows_with_zone": 1461863,
+    "elapsed_s": 0.7
+  },
+  {
+    "task": "yellow_tripdata_2021-02",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 2,
+    "total_rows": 1371709,
+    "rows_with_zone": 1371678,
+    "elapsed_s": 0.64
+  },
+  {
+    "task": "green_tripdata_2014-01",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 1,
+    "total_rows": 803860,
+    "rows_with_zone": 803860,
+    "elapsed_s": 0.58
+  },
+  {
+    "task": "green_tripdata_2014-04",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 4,
+    "total_rows": 1309155,
+    "rows_with_zone": 1309155,
+    "elapsed_s": 0.69
+  },
+  {
+    "task": "green_tripdata_2014-05",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 5,
+    "total_rows": 1421503,
+    "rows_with_zone": 1421503,
+    "elapsed_s": 0.71
+  },
+  {
+    "task": "green_tripdata_2014-08",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 8,
+    "total_rows": 1344941,
+    "rows_with_zone": 1344941,
+    "elapsed_s": 0.67
+  },
+  {
+    "task": "green_tripdata_2014-07",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 7,
+    "total_rows": 1273973,
+    "rows_with_zone": 1273973,
+    "elapsed_s": 0.62
+  },
+  {
+    "task": "green_tripdata_2014-02",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 2,
+    "total_rows": 1005242,
+    "rows_with_zone": 1005242,
+    "elapsed_s": 0.56
+  },
+  {
+    "task": "green_tripdata_2015-12",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 12,
+    "total_rows": 1608297,
+    "rows_with_zone": 1608297,
+    "elapsed_s": 0.71
+  },
+  {
+    "task": "green_tripdata_2015-10",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 10,
+    "total_rows": 1630536,
+    "rows_with_zone": 1630536,
+    "elapsed_s": 0.76
+  },
+  {
+    "task": "green_tripdata_2016-05",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 5,
+    "total_rows": 1536979,
+    "rows_with_zone": 1536979,
+    "elapsed_s": 0.69
+  },
+  {
+    "task": "green_tripdata_2016-09",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 9,
+    "total_rows": 1162373,
+    "rows_with_zone": 1162373,
+    "elapsed_s": 0.61
+  },
+  {
+    "task": "green_tripdata_2016-10",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 10,
+    "total_rows": 1252572,
+    "rows_with_zone": 1252572,
+    "elapsed_s": 0.64
+  },
+  {
+    "task": "green_tripdata_2016-07",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 7,
+    "total_rows": 1332510,
+    "rows_with_zone": 1332510,
+    "elapsed_s": 0.66
+  },
+  {
+    "task": "green_tripdata_2016-11",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 11,
+    "total_rows": 1148214,
+    "rows_with_zone": 1148214,
+    "elapsed_s": 0.62
+  },
+  {
+    "task": "green_tripdata_2016-12",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 12,
+    "total_rows": 1224158,
+    "rows_with_zone": 1224158,
+    "elapsed_s": 0.66
+  },
+  {
+    "task": "green_tripdata_2017-01",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 1,
+    "total_rows": 1069565,
+    "rows_with_zone": 1069565,
+    "elapsed_s": 0.58
+  },
+  {
+    "task": "green_tripdata_2017-03",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 3,
+    "total_rows": 1157827,
+    "rows_with_zone": 1157827,
+    "elapsed_s": 0.62
+  },
+  {
+    "task": "green_tripdata_2017-04",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 4,
+    "total_rows": 1080844,
+    "rows_with_zone": 1080844,
+    "elapsed_s": 0.59
+  },
+  {
+    "task": "green_tripdata_2017-02",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 2,
+    "total_rows": 1022313,
+    "rows_with_zone": 1022313,
+    "elapsed_s": 0.59
+  },
+  {
+    "task": "green_tripdata_2016-06",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 6,
+    "total_rows": 1404727,
+    "rows_with_zone": 1404727,
+    "elapsed_s": 0.68
+  },
+  {
+    "task": "green_tripdata_2017-07",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 7,
+    "total_rows": 914783,
+    "rows_with_zone": 914783,
+    "elapsed_s": 0.59
+  },
+  {
+    "task": "green_tripdata_2017-08",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 8,
+    "total_rows": 867407,
+    "rows_with_zone": 867332,
+    "elapsed_s": 0.59
+  },
+  {
+    "task": "green_tripdata_2017-05",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 5,
+    "total_rows": 1059463,
+    "rows_with_zone": 1059463,
+    "elapsed_s": 0.61
+  },
+  {
+    "task": "green_tripdata_2017-06",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 6,
+    "total_rows": 976467,
+    "rows_with_zone": 976467,
+    "elapsed_s": 0.59
+  },
+  {
+    "task": "green_tripdata_2017-09",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 9,
+    "total_rows": 882464,
+    "rows_with_zone": 882273,
+    "elapsed_s": 0.57
+  },
+  {
+    "task": "green_tripdata_2017-12",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 12,
+    "total_rows": 906016,
+    "rows_with_zone": 905800,
+    "elapsed_s": 0.59
+  },
+  {
+    "task": "green_tripdata_2018-02",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 2,
+    "total_rows": 769197,
+    "rows_with_zone": 768945,
+    "elapsed_s": 0.53
+  },
+  {
+    "task": "green_tripdata_2018-01",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 1,
+    "total_rows": 792744,
+    "rows_with_zone": 792596,
+    "elapsed_s": 0.59
+  },
+  {
+    "task": "green_tripdata_2017-10",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 10,
+    "total_rows": 925737,
+    "rows_with_zone": 925541,
+    "elapsed_s": 0.57
+  },
+  {
+    "task": "green_tripdata_2018-05",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 5,
+    "total_rows": 796552,
+    "rows_with_zone": 796471,
+    "elapsed_s": 0.52
+  },
+  {
+    "task": "green_tripdata_2018-07",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 7,
+    "total_rows": 684374,
+    "rows_with_zone": 684301,
+    "elapsed_s": 0.56
+  },
+  {
+    "task": "green_tripdata_2018-04",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 4,
+    "total_rows": 799383,
+    "rows_with_zone": 799216,
+    "elapsed_s": 0.59
+  },
+  {
+    "task": "green_tripdata_2018-06",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 6,
+    "total_rows": 738546,
+    "rows_with_zone": 738444,
+    "elapsed_s": 0.55
+  },
+  {
+    "task": "green_tripdata_2018-08",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 8,
+    "total_rows": 675815,
+    "rows_with_zone": 675711,
+    "elapsed_s": 0.49
+  },
+  {
+    "task": "green_tripdata_2018-10",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 10,
+    "total_rows": 731888,
+    "rows_with_zone": 731785,
+    "elapsed_s": 0.49
+  },
+  {
+    "task": "green_tripdata_2018-11",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 11,
+    "total_rows": 673287,
+    "rows_with_zone": 673182,
+    "elapsed_s": 0.48
+  },
+  {
+    "task": "green_tripdata_2018-12",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 12,
+    "total_rows": 719654,
+    "rows_with_zone": 719533,
+    "elapsed_s": 0.5
+  },
+  {
+    "task": "green_tripdata_2019-01",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 1,
+    "total_rows": 672105,
+    "rows_with_zone": 671992,
+    "elapsed_s": 0.49
+  },
+  {
+    "task": "green_tripdata_2019-03",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 3,
+    "total_rows": 643063,
+    "rows_with_zone": 642987,
+    "elapsed_s": 0.49
+  },
+  {
+    "task": "green_tripdata_2019-05",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 5,
+    "total_rows": 545452,
+    "rows_with_zone": 545410,
+    "elapsed_s": 0.54
+  },
+  {
+    "task": "green_tripdata_2019-06",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 6,
+    "total_rows": 506238,
+    "rows_with_zone": 506185,
+    "elapsed_s": 0.46
+  },
+  {
+    "task": "green_tripdata_2019-04",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 4,
+    "total_rows": 567852,
+    "rows_with_zone": 567819,
+    "elapsed_s": 0.48
+  },
+  {
+    "task": "green_tripdata_2019-07",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 7,
+    "total_rows": 470743,
+    "rows_with_zone": 470695,
+    "elapsed_s": 0.44
+  },
+  {
+    "task": "green_tripdata_2019-09",
+    "taxi_type": "green",
+    "year": 2019,
+    "month": 9,
+    "total_rows": 449063,
+    "rows_with_zone": 448999,
+    "elapsed_s": 0.52
+  },
+  {
+    "task": "green_tripdata_2020-01",
+    "taxi_type": "green",
+    "year": 2020,
+    "month": 1,
+    "total_rows": 447770,
+    "rows_with_zone": 447717,
+    "elapsed_s": 0.44
+  },
+  {
+    "task": "green_tripdata_2024-11",
+    "taxi_type": "green",
+    "year": 2024,
+    "month": 11,
+    "total_rows": 52222,
+    "rows_with_zone": 52207,
+    "elapsed_s": 0.33
+  },
+  {
+    "task": "yellow_tripdata_2020-09",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 9,
+    "total_rows": 1341017,
+    "rows_with_zone": 1340883,
+    "elapsed_s": 0.8
+  },
+  {
+    "task": "yellow_tripdata_2020-10",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 10,
+    "total_rows": 1681132,
+    "rows_with_zone": 1681100,
+    "elapsed_s": 0.79
+  },
+  {
+    "task": "yellow_tripdata_2020-11",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 11,
+    "total_rows": 1509000,
+    "rows_with_zone": 1508888,
+    "elapsed_s": 0.89
+  },
+  {
+    "task": "yellow_tripdata_2021-01",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 1,
+    "total_rows": 1369769,
+    "rows_with_zone": 1369745,
+    "elapsed_s": 0.76
+  },
+  {
+    "task": "yellow_tripdata_2021-04",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 4,
+    "total_rows": 2171187,
+    "rows_with_zone": 2171145,
+    "elapsed_s": 0.87
+  },
+  {
+    "task": "yellow_tripdata_2021-06",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 6,
+    "total_rows": 2834264,
+    "rows_with_zone": 2834141,
+    "elapsed_s": 1.01
+  },
+  {
+    "task": "yellow_tripdata_2023-08",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 8,
+    "total_rows": 2824209,
+    "rows_with_zone": 2824175,
+    "elapsed_s": 0.98
+  },
+  {
+    "task": "yellow_tripdata_2023-09",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 9,
+    "total_rows": 2846722,
+    "rows_with_zone": 2846690,
+    "elapsed_s": 0.99
+  },
+  {
+    "task": "yellow_tripdata_2024-02",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 2,
+    "total_rows": 3007526,
+    "rows_with_zone": 3007511,
+    "elapsed_s": 0.95
+  },
+  {
+    "task": "green_tripdata_2014-03",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 3,
+    "total_rows": 1293471,
+    "rows_with_zone": 1293471,
+    "elapsed_s": 0.7
+  },
+  {
+    "task": "green_tripdata_2014-09",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 9,
+    "total_rows": 1361893,
+    "rows_with_zone": 1361893,
+    "elapsed_s": 0.67
+  },
+  {
+    "task": "green_tripdata_2014-11",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 11,
+    "total_rows": 1548159,
+    "rows_with_zone": 1548159,
+    "elapsed_s": 0.71
+  },
+  {
+    "task": "green_tripdata_2014-06",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 6,
+    "total_rows": 1337759,
+    "rows_with_zone": 1337759,
+    "elapsed_s": 0.67
+  },
+  {
+    "task": "green_tripdata_2014-10",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 10,
+    "total_rows": 1491266,
+    "rows_with_zone": 1491266,
+    "elapsed_s": 0.76
+  },
+  {
+    "task": "green_tripdata_2015-02",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 2,
+    "total_rows": 1574830,
+    "rows_with_zone": 1574830,
+    "elapsed_s": 0.73
+  },
+  {
+    "task": "green_tripdata_2014-12",
+    "taxi_type": "green",
+    "year": 2014,
+    "month": 12,
+    "total_rows": 1645787,
+    "rows_with_zone": 1645787,
+    "elapsed_s": 0.75
+  },
+  {
+    "task": "green_tripdata_2015-03",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 3,
+    "total_rows": 1722574,
+    "rows_with_zone": 1722574,
+    "elapsed_s": 0.74
+  },
+  {
+    "task": "green_tripdata_2015-01",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 1,
+    "total_rows": 1508493,
+    "rows_with_zone": 1508493,
+    "elapsed_s": 0.76
+  },
+  {
+    "task": "green_tripdata_2015-05",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 5,
+    "total_rows": 1786848,
+    "rows_with_zone": 1786848,
+    "elapsed_s": 0.74
+  },
+  {
+    "task": "green_tripdata_2015-04",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 4,
+    "total_rows": 1664394,
+    "rows_with_zone": 1664394,
+    "elapsed_s": 0.73
+  },
+  {
+    "task": "green_tripdata_2015-06",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 6,
+    "total_rows": 1638868,
+    "rows_with_zone": 1638868,
+    "elapsed_s": 0.74
+  },
+  {
+    "task": "green_tripdata_2015-07",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 7,
+    "total_rows": 1541671,
+    "rows_with_zone": 1541671,
+    "elapsed_s": 0.71
+  },
+  {
+    "task": "green_tripdata_2015-08",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 8,
+    "total_rows": 1532343,
+    "rows_with_zone": 1532343,
+    "elapsed_s": 0.73
+  },
+  {
+    "task": "green_tripdata_2015-09",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 9,
+    "total_rows": 1494927,
+    "rows_with_zone": 1494927,
+    "elapsed_s": 0.7
+  },
+  {
+    "task": "green_tripdata_2015-11",
+    "taxi_type": "green",
+    "year": 2015,
+    "month": 11,
+    "total_rows": 1529984,
+    "rows_with_zone": 1529984,
+    "elapsed_s": 0.7
+  },
+  {
+    "task": "green_tripdata_2016-02",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 2,
+    "total_rows": 1510722,
+    "rows_with_zone": 1510722,
+    "elapsed_s": 0.68
+  },
+  {
+    "task": "green_tripdata_2016-01",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 1,
+    "total_rows": 1445292,
+    "rows_with_zone": 1445292,
+    "elapsed_s": 0.66
+  },
+  {
+    "task": "green_tripdata_2016-03",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 3,
+    "total_rows": 1576393,
+    "rows_with_zone": 1576393,
+    "elapsed_s": 0.75
+  },
+  {
+    "task": "green_tripdata_2016-04",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 4,
+    "total_rows": 1543926,
+    "rows_with_zone": 1543926,
+    "elapsed_s": 0.72
+  },
+  {
+    "task": "green_tripdata_2016-08",
+    "taxi_type": "green",
+    "year": 2016,
+    "month": 8,
+    "total_rows": 1247675,
+    "rows_with_zone": 1247675,
+    "elapsed_s": 0.69
+  },
+  {
+    "task": "green_tripdata_2017-11",
+    "taxi_type": "green",
+    "year": 2017,
+    "month": 11,
+    "total_rows": 874173,
+    "rows_with_zone": 874007,
+    "elapsed_s": 0.7
+  },
+  {
+    "task": "green_tripdata_2018-03",
+    "taxi_type": "green",
+    "year": 2018,
+    "month": 3,
+    "total_rows": 836246,
+    "rows_with_zone": 835946,
+    "elapsed_s": 0.83
+  },
+  {
+    "task": "yellow_tripdata_2020-03",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 3,
+    "total_rows": 3007687,
+    "rows_with_zone": 3007261,
+    "elapsed_s": 1.0
+  },
+  {
+    "task": "yellow_tripdata_2021-03",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 3,
+    "total_rows": 1925152,
+    "rows_with_zone": 1925119,
+    "elapsed_s": 0.98
+  },
+  {
+    "task": "yellow_tripdata_2021-05",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 5,
+    "total_rows": 2507109,
+    "rows_with_zone": 2507015,
+    "elapsed_s": 1.14
+  },
+  {
+    "task": "yellow_tripdata_2021-09",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 9,
+    "total_rows": 2963793,
+    "rows_with_zone": 2963688,
+    "elapsed_s": 1.01
+  },
+  {
+    "task": "yellow_tripdata_2021-08",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 8,
+    "total_rows": 2788757,
+    "rows_with_zone": 2788231,
+    "elapsed_s": 1.14
+  },
+  {
+    "task": "yellow_tripdata_2022-01",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 1,
+    "total_rows": 2463931,
+    "rows_with_zone": 2463879,
+    "elapsed_s": 1.12
+  },
+  {
+    "task": "yellow_tripdata_2021-10",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 10,
+    "total_rows": 3463504,
+    "rows_with_zone": 3463393,
+    "elapsed_s": 1.12
+  },
+  {
+    "task": "yellow_tripdata_2021-11",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 11,
+    "total_rows": 3472949,
+    "rows_with_zone": 3472822,
+    "elapsed_s": 1.19
+  },
+  {
+    "task": "yellow_tripdata_2022-02",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 2,
+    "total_rows": 2979431,
+    "rows_with_zone": 2979367,
+    "elapsed_s": 1.02
+  },
+  {
+    "task": "yellow_tripdata_2021-07",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 7,
+    "total_rows": 2821746,
+    "rows_with_zone": 2821616,
+    "elapsed_s": 1.04
+  },
+  {
+    "task": "yellow_tripdata_2022-05",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 5,
+    "total_rows": 3588295,
+    "rows_with_zone": 3588152,
+    "elapsed_s": 1.16
+  },
+  {
+    "task": "yellow_tripdata_2022-06",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 6,
+    "total_rows": 3558124,
+    "rows_with_zone": 3557612,
+    "elapsed_s": 1.17
+  },
+  {
+    "task": "yellow_tripdata_2022-08",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 8,
+    "total_rows": 3152677,
+    "rows_with_zone": 3152624,
+    "elapsed_s": 1.17
+  },
+  {
+    "task": "yellow_tripdata_2023-05",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 5,
+    "total_rows": 3513649,
+    "rows_with_zone": 3513599,
+    "elapsed_s": 1.16
+  },
+  {
+    "task": "yellow_tripdata_2023-06",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 6,
+    "total_rows": 3307234,
+    "rows_with_zone": 3307193,
+    "elapsed_s": 1.0
+  },
+  {
+    "task": "yellow_tripdata_2023-07",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 7,
+    "total_rows": 2907108,
+    "rows_with_zone": 2907049,
+    "elapsed_s": 0.93
+  },
+  {
+    "task": "yellow_tripdata_2023-10",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 10,
+    "total_rows": 3522285,
+    "rows_with_zone": 3522232,
+    "elapsed_s": 1.11
+  },
+  {
+    "task": "yellow_tripdata_2023-12",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 12,
+    "total_rows": 3376567,
+    "rows_with_zone": 3376524,
+    "elapsed_s": 1.05
+  },
+  {
+    "task": "yellow_tripdata_2024-03",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 3,
+    "total_rows": 3582628,
+    "rows_with_zone": 3582605,
+    "elapsed_s": 1.09
+  },
+  {
+    "task": "yellow_tripdata_2024-01",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 1,
+    "total_rows": 2964624,
+    "rows_with_zone": 2964606,
+    "elapsed_s": 0.96
+  },
+  {
+    "task": "yellow_tripdata_2023-11",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 11,
+    "total_rows": 3339715,
+    "rows_with_zone": 3339684,
+    "elapsed_s": 1.04
+  },
+  {
+    "task": "yellow_tripdata_2024-04",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 4,
+    "total_rows": 3514289,
+    "rows_with_zone": 3514280,
+    "elapsed_s": 1.19
+  },
+  {
+    "task": "yellow_tripdata_2024-05",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 5,
+    "total_rows": 3723833,
+    "rows_with_zone": 3723800,
+    "elapsed_s": 1.08
+  },
+  {
+    "task": "yellow_tripdata_2024-06",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 6,
+    "total_rows": 3539193,
+    "rows_with_zone": 3539142,
+    "elapsed_s": 1.06
+  },
+  {
+    "task": "yellow_tripdata_2024-09",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 9,
+    "total_rows": 3633030,
+    "rows_with_zone": 3632981,
+    "elapsed_s": 1.14
+  },
+  {
+    "task": "yellow_tripdata_2024-08",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 8,
+    "total_rows": 2979183,
+    "rows_with_zone": 2979132,
+    "elapsed_s": 0.96
+  },
+  {
+    "task": "yellow_tripdata_2024-07",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 7,
+    "total_rows": 3076903,
+    "rows_with_zone": 3076856,
+    "elapsed_s": 1.05
+  },
+  {
+    "task": "yellow_tripdata_2024-12",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 12,
+    "total_rows": 3668371,
+    "rows_with_zone": 3668337,
+    "elapsed_s": 1.15
+  },
+  {
+    "task": "yellow_tripdata_2024-10",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 10,
+    "total_rows": 3833771,
+    "rows_with_zone": 3833731,
+    "elapsed_s": 1.15
+  },
+  {
+    "task": "yellow_tripdata_2024-11",
+    "taxi_type": "yellow",
+    "year": 2024,
+    "month": 11,
+    "total_rows": 3646369,
+    "rows_with_zone": 3646319,
+    "elapsed_s": 1.1
+  },
+  {
+    "task": "yellow_tripdata_2022-03",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 3,
+    "total_rows": 3627882,
+    "rows_with_zone": 3627793,
+    "elapsed_s": 1.5
+  },
+  {
+    "task": "yellow_tripdata_2022-04",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 4,
+    "total_rows": 3599920,
+    "rows_with_zone": 3599762,
+    "elapsed_s": 1.24
+  },
+  {
+    "task": "yellow_tripdata_2021-12",
+    "taxi_type": "yellow",
+    "year": 2021,
+    "month": 12,
+    "total_rows": 3214369,
+    "rows_with_zone": 3214261,
+    "elapsed_s": 1.2
+  },
+  {
+    "task": "yellow_tripdata_2022-07",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 7,
+    "total_rows": 3174394,
+    "rows_with_zone": 3174312,
+    "elapsed_s": 1.26
+  },
+  {
+    "task": "yellow_tripdata_2022-09",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 9,
+    "total_rows": 3183767,
+    "rows_with_zone": 3183690,
+    "elapsed_s": 1.28
+  },
+  {
+    "task": "yellow_tripdata_2022-11",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 11,
+    "total_rows": 3252717,
+    "rows_with_zone": 3252620,
+    "elapsed_s": 1.36
+  },
+  {
+    "task": "yellow_tripdata_2023-02",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 2,
+    "total_rows": 2913955,
+    "rows_with_zone": 2913900,
+    "elapsed_s": 1.23
+  },
+  {
+    "task": "yellow_tripdata_2022-10",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 10,
+    "total_rows": 3675411,
+    "rows_with_zone": 3675320,
+    "elapsed_s": 1.24
+  },
+  {
+    "task": "yellow_tripdata_2023-03",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 3,
+    "total_rows": 3403766,
+    "rows_with_zone": 3403577,
+    "elapsed_s": 1.28
+  },
+  {
+    "task": "yellow_tripdata_2023-01",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 1,
+    "total_rows": 3066766,
+    "rows_with_zone": 3066718,
+    "elapsed_s": 1.24
+  },
+  {
+    "task": "yellow_tripdata_2023-04",
+    "taxi_type": "yellow",
+    "year": 2023,
+    "month": 4,
+    "total_rows": 3288250,
+    "rows_with_zone": 3288155,
+    "elapsed_s": 1.3
+  },
+  {
+    "task": "yellow_tripdata_2022-12",
+    "taxi_type": "yellow",
+    "year": 2022,
+    "month": 12,
+    "total_rows": 3399549,
+    "rows_with_zone": 3399503,
+    "elapsed_s": 1.21
+  },
+  {
+    "task": "yellow_tripdata_2019-07",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 7,
+    "total_rows": 6310419,
+    "rows_with_zone": 6310134,
+    "elapsed_s": 1.84
+  },
+  {
+    "task": "yellow_tripdata_2019-09",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 9,
+    "total_rows": 6567788,
+    "rows_with_zone": 6567396,
+    "elapsed_s": 1.8
+  },
+  {
+    "task": "yellow_tripdata_2020-02",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 2,
+    "total_rows": 6299367,
+    "rows_with_zone": 6299064,
+    "elapsed_s": 1.74
+  },
+  {
+    "task": "yellow_tripdata_2018-02",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 2,
+    "total_rows": 8492819,
+    "rows_with_zone": 8492113,
+    "elapsed_s": 2.03
+  },
+  {
+    "task": "yellow_tripdata_2018-08",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 8,
+    "total_rows": 7855040,
+    "rows_with_zone": 7854601,
+    "elapsed_s": 2.15
+  },
+  {
+    "task": "yellow_tripdata_2019-03",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 3,
+    "total_rows": 7866620,
+    "rows_with_zone": 7866110,
+    "elapsed_s": 2.15
+  },
+  {
+    "task": "yellow_tripdata_2019-02",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 2,
+    "total_rows": 7049370,
+    "rows_with_zone": 7048744,
+    "elapsed_s": 1.89
+  },
+  {
+    "task": "yellow_tripdata_2019-05",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 5,
+    "total_rows": 7598445,
+    "rows_with_zone": 7598068,
+    "elapsed_s": 2.1
+  },
+  {
+    "task": "yellow_tripdata_2019-06",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 6,
+    "total_rows": 6971560,
+    "rows_with_zone": 6971026,
+    "elapsed_s": 1.92
+  },
+  {
+    "task": "yellow_tripdata_2019-08",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 8,
+    "total_rows": 6073357,
+    "rows_with_zone": 6072851,
+    "elapsed_s": 1.95
+  },
+  {
+    "task": "yellow_tripdata_2019-10",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 10,
+    "total_rows": 7213891,
+    "rows_with_zone": 7213588,
+    "elapsed_s": 1.94
+  },
+  {
+    "task": "yellow_tripdata_2020-01",
+    "taxi_type": "yellow",
+    "year": 2020,
+    "month": 1,
+    "total_rows": 6405008,
+    "rows_with_zone": 6404796,
+    "elapsed_s": 1.96
+  },
+  {
+    "task": "yellow_tripdata_2019-11",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 11,
+    "total_rows": 6878111,
+    "rows_with_zone": 6877463,
+    "elapsed_s": 2.11
+  },
+  {
+    "task": "yellow_tripdata_2017-08",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 8,
+    "total_rows": 8422153,
+    "rows_with_zone": 8422064,
+    "elapsed_s": 2.18
+  },
+  {
+    "task": "yellow_tripdata_2017-10",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 10,
+    "total_rows": 9768672,
+    "rows_with_zone": 9768281,
+    "elapsed_s": 2.36
+  },
+  {
+    "task": "yellow_tripdata_2017-09",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 9,
+    "total_rows": 8945421,
+    "rows_with_zone": 8945170,
+    "elapsed_s": 2.27
+  },
+  {
+    "task": "yellow_tripdata_2017-07",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 7,
+    "total_rows": 8588486,
+    "rows_with_zone": 8588486,
+    "elapsed_s": 2.22
+  },
+  {
+    "task": "yellow_tripdata_2018-01",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 1,
+    "total_rows": 8760687,
+    "rows_with_zone": 8760345,
+    "elapsed_s": 2.34
+  },
+  {
+    "task": "yellow_tripdata_2018-06",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 6,
+    "total_rows": 8714667,
+    "rows_with_zone": 8714143,
+    "elapsed_s": 2.18
+  },
+  {
+    "task": "yellow_tripdata_2018-07",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 7,
+    "total_rows": 7851143,
+    "rows_with_zone": 7850626,
+    "elapsed_s": 2.23
+  },
+  {
+    "task": "yellow_tripdata_2018-10",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 10,
+    "total_rows": 8834520,
+    "rows_with_zone": 8834151,
+    "elapsed_s": 2.22
+  },
+  {
+    "task": "yellow_tripdata_2019-04",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 4,
+    "total_rows": 7475949,
+    "rows_with_zone": 7475636,
+    "elapsed_s": 2.16
+  },
+  {
+    "task": "yellow_tripdata_2019-12",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 12,
+    "total_rows": 6896317,
+    "rows_with_zone": 6895933,
+    "elapsed_s": 2.18
+  },
+  {
+    "task": "yellow_tripdata_2017-04",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 4,
+    "total_rows": 10047135,
+    "rows_with_zone": 10047135,
+    "elapsed_s": 2.47
+  },
+  {
+    "task": "yellow_tripdata_2017-12",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 12,
+    "total_rows": 9508501,
+    "rows_with_zone": 9508190,
+    "elapsed_s": 2.59
+  },
+  {
+    "task": "yellow_tripdata_2017-11",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 11,
+    "total_rows": 9284803,
+    "rows_with_zone": 9284483,
+    "elapsed_s": 2.55
+  },
+  {
+    "task": "yellow_tripdata_2018-03",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 3,
+    "total_rows": 9431289,
+    "rows_with_zone": 9429954,
+    "elapsed_s": 2.38
+  },
+  {
+    "task": "yellow_tripdata_2018-05",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 5,
+    "total_rows": 9224788,
+    "rows_with_zone": 9224470,
+    "elapsed_s": 2.54
+  },
+  {
+    "task": "yellow_tripdata_2018-04",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 4,
+    "total_rows": 9306216,
+    "rows_with_zone": 9305728,
+    "elapsed_s": 2.43
+  },
+  {
+    "task": "yellow_tripdata_2018-12",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 12,
+    "total_rows": 8195675,
+    "rows_with_zone": 8194756,
+    "elapsed_s": 2.56
+  },
+  {
+    "task": "yellow_tripdata_2019-01",
+    "taxi_type": "yellow",
+    "year": 2019,
+    "month": 1,
+    "total_rows": 7696617,
+    "rows_with_zone": 7696080,
+    "elapsed_s": 2.35
+  },
+  {
+    "task": "yellow_tripdata_2018-11",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 11,
+    "total_rows": 8155449,
+    "rows_with_zone": 8155025,
+    "elapsed_s": 2.37
+  },
+  {
+    "task": "fhvhv_tripdata_2020-05",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 5,
+    "total_rows": 6089999,
+    "rows_with_zone": 6089999,
+    "elapsed_s": 2.14
+  },
+  {
+    "task": "yellow_tripdata_2017-02",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 2,
+    "total_rows": 9169775,
+    "rows_with_zone": 9169775,
+    "elapsed_s": 3.03
+  },
+  {
+    "task": "yellow_tripdata_2017-06",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 6,
+    "total_rows": 9656993,
+    "rows_with_zone": 9656993,
+    "elapsed_s": 2.56
+  },
+  {
+    "task": "yellow_tripdata_2017-05",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 5,
+    "total_rows": 10102127,
+    "rows_with_zone": 10102127,
+    "elapsed_s": 3.0
+  },
+  {
+    "task": "yellow_tripdata_2018-09",
+    "taxi_type": "yellow",
+    "year": 2018,
+    "month": 9,
+    "total_rows": 8049094,
+    "rows_with_zone": 8048626,
+    "elapsed_s": 2.95
+  },
+  {
+    "task": "fhvhv_tripdata_2020-04",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 4,
+    "total_rows": 4312909,
+    "rows_with_zone": 4312909,
+    "elapsed_s": 1.71
+  },
+  {
+    "task": "yellow_tripdata_2017-01",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 1,
+    "total_rows": 9710820,
+    "rows_with_zone": 9710820,
+    "elapsed_s": 3.45
+  },
+  {
+    "task": "fhvhv_tripdata_2020-07",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 7,
+    "total_rows": 9958454,
+    "rows_with_zone": 9958454,
+    "elapsed_s": 3.41
+  },
+  {
+    "task": "yellow_tripdata_2015-09",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 9,
+    "total_rows": 11218122,
+    "rows_with_zone": 11218122,
+    "elapsed_s": 4.02
+  },
+  {
+    "task": "yellow_tripdata_2016-07",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 7,
+    "total_rows": 10294080,
+    "rows_with_zone": 10294080,
+    "elapsed_s": 3.96
+  },
+  {
+    "task": "fhvhv_tripdata_2020-06",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 6,
+    "total_rows": 7555193,
+    "rows_with_zone": 7555193,
+    "elapsed_s": 2.48
+  },
+  {
+    "task": "fhvhv_tripdata_2021-01",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 1,
+    "total_rows": 11908468,
+    "rows_with_zone": 11908468,
+    "elapsed_s": 3.84
+  },
+  {
+    "task": "fhvhv_tripdata_2020-09",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 9,
+    "total_rows": 12106669,
+    "rows_with_zone": 12106669,
+    "elapsed_s": 4.12
+  },
+  {
+    "task": "yellow_tripdata_2015-08",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 8,
+    "total_rows": 11123123,
+    "rows_with_zone": 11123123,
+    "elapsed_s": 4.34
+  },
+  {
+    "task": "yellow_tripdata_2016-11",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 11,
+    "total_rows": 10102128,
+    "rows_with_zone": 10102128,
+    "elapsed_s": 4.19
+  },
+  {
+    "task": "yellow_tripdata_2013-08",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 8,
+    "total_rows": 11681525,
+    "rows_with_zone": 11681525,
+    "elapsed_s": 4.43
+  },
+  {
+    "task": "yellow_tripdata_2016-10",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 10,
+    "total_rows": 10854626,
+    "rows_with_zone": 10854626,
+    "elapsed_s": 4.37
+  },
+  {
+    "task": "fhvhv_tripdata_2020-03",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 3,
+    "total_rows": 13392928,
+    "rows_with_zone": 13392928,
+    "elapsed_s": 4.57
+  },
+  {
+    "task": "fhvhv_tripdata_2020-11",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 11,
+    "total_rows": 11596865,
+    "rows_with_zone": 11596865,
+    "elapsed_s": 4.25
+  },
+  {
+    "task": "yellow_tripdata_2015-11",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 11,
+    "total_rows": 11305240,
+    "rows_with_zone": 11305240,
+    "elapsed_s": 4.68
+  },
+  {
+    "task": "yellow_tripdata_2016-08",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 8,
+    "total_rows": 9942263,
+    "rows_with_zone": 9942263,
+    "elapsed_s": 4.84
+  },
+  {
+    "task": "yellow_tripdata_2015-12",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 12,
+    "total_rows": 11452996,
+    "rows_with_zone": 11452996,
+    "elapsed_s": 4.95
+  },
+  {
+    "task": "fhvhv_tripdata_2020-12",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 12,
+    "total_rows": 11637123,
+    "rows_with_zone": 11637123,
+    "elapsed_s": 3.67
+  },
+  {
+    "task": "fhvhv_tripdata_2021-02",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 2,
+    "total_rows": 11613942,
+    "rows_with_zone": 11613942,
+    "elapsed_s": 3.75
+  },
+  {
+    "task": "fhvhv_tripdata_2021-03",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 3,
+    "total_rows": 14227393,
+    "rows_with_zone": 14227393,
+    "elapsed_s": 4.93
+  },
+  {
+    "task": "fhvhv_tripdata_2021-07",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 7,
+    "total_rows": 15027174,
+    "rows_with_zone": 15027174,
+    "elapsed_s": 5.05
+  },
+  {
+    "task": "fhvhv_tripdata_2022-01",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 1,
+    "total_rows": 14751591,
+    "rows_with_zone": 14751591,
+    "elapsed_s": 4.89
+  },
+  {
+    "task": "fhvhv_tripdata_2021-09",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 9,
+    "total_rows": 14886055,
+    "rows_with_zone": 14886055,
+    "elapsed_s": 5.12
+  },
+  {
+    "task": "yellow_tripdata_2015-07",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 7,
+    "total_rows": 11559666,
+    "rows_with_zone": 11559666,
+    "elapsed_s": 5.27
+  },
+  {
+    "task": "yellow_tripdata_2016-03",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 3,
+    "total_rows": 12203824,
+    "rows_with_zone": 12203824,
+    "elapsed_s": 5.14
+  },
+  {
+    "task": "yellow_tripdata_2016-05",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 5,
+    "total_rows": 11832049,
+    "rows_with_zone": 11832049,
+    "elapsed_s": 5.13
+  },
+  {
+    "task": "yellow_tripdata_2016-06",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 6,
+    "total_rows": 11131645,
+    "rows_with_zone": 11131645,
+    "elapsed_s": 5.35
+  },
+  {
+    "task": "yellow_tripdata_2014-08",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 8,
+    "total_rows": 12698743,
+    "rows_with_zone": 12698743,
+    "elapsed_s": 5.42
+  },
+  {
+    "task": "yellow_tripdata_2013-12",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 12,
+    "total_rows": 13971118,
+    "rows_with_zone": 13971118,
+    "elapsed_s": 5.42
+  },
+  {
+    "task": "yellow_tripdata_2016-04",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 4,
+    "total_rows": 11927996,
+    "rows_with_zone": 11927996,
+    "elapsed_s": 5.35
+  },
+  {
+    "task": "fhvhv_tripdata_2020-08",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 8,
+    "total_rows": 11096852,
+    "rows_with_zone": 11096852,
+    "elapsed_s": 3.99
+  },
+  {
+    "task": "fhvhv_tripdata_2021-05",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 5,
+    "total_rows": 14719171,
+    "rows_with_zone": 14719171,
+    "elapsed_s": 5.49
+  },
+  {
+    "task": "fhvhv_tripdata_2024-07",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 7,
+    "total_rows": 19182934,
+    "rows_with_zone": 19182934,
+    "elapsed_s": 5.35
+  },
+  {
+    "task": "fhvhv_tripdata_2021-11",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 11,
+    "total_rows": 16041639,
+    "rows_with_zone": 16041639,
+    "elapsed_s": 5.55
+  },
+  {
+    "task": "fhvhv_tripdata_2023-08",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 8,
+    "total_rows": 18322150,
+    "rows_with_zone": 18322150,
+    "elapsed_s": 5.69
+  },
+  {
+    "task": "fhvhv_tripdata_2024-01",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 1,
+    "total_rows": 19663930,
+    "rows_with_zone": 19663930,
+    "elapsed_s": 5.62
+  },
+  {
+    "task": "fhvhv_tripdata_2024-08",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 8,
+    "total_rows": 19128392,
+    "rows_with_zone": 19128392,
+    "elapsed_s": 5.63
+  },
+  {
+    "task": "fhvhv_tripdata_2024-09",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 9,
+    "total_rows": 19209788,
+    "rows_with_zone": 19209788,
+    "elapsed_s": 5.7
+  },
+  {
+    "task": "yellow_tripdata_2013-04",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 4,
+    "total_rows": 14652628,
+    "rows_with_zone": 14652628,
+    "elapsed_s": 5.78
+  },
+  {
+    "task": "yellow_tripdata_2014-07",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 7,
+    "total_rows": 13104273,
+    "rows_with_zone": 13104273,
+    "elapsed_s": 5.62
+  },
+  {
+    "task": "yellow_tripdata_2016-09",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 9,
+    "total_rows": 10116018,
+    "rows_with_zone": 10116018,
+    "elapsed_s": 5.8
+  },
+  {
+    "task": "yellow_tripdata_2012-05",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 5,
+    "total_rows": 13965253,
+    "rows_with_zone": 13965253,
+    "elapsed_s": 5.86
+  },
+  {
+    "task": "yellow_tripdata_2013-02",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 2,
+    "total_rows": 13990176,
+    "rows_with_zone": 13990176,
+    "elapsed_s": 5.82
+  },
+  {
+    "task": "yellow_tripdata_2014-06",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 6,
+    "total_rows": 13813079,
+    "rows_with_zone": 13813079,
+    "elapsed_s": 5.98
+  },
+  {
+    "task": "fhvhv_tripdata_2021-04",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 4,
+    "total_rows": 14111371,
+    "rows_with_zone": 14111371,
+    "elapsed_s": 4.52
+  },
+  {
+    "task": "fhvhv_tripdata_2021-06",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 6,
+    "total_rows": 14961892,
+    "rows_with_zone": 14961892,
+    "elapsed_s": 4.63
+  },
+  {
+    "task": "fhvhv_tripdata_2024-12",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 12,
+    "total_rows": 21068851,
+    "rows_with_zone": 21068851,
+    "elapsed_s": 5.93
+  },
+  {
+    "task": "fhvhv_tripdata_2022-07",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 7,
+    "total_rows": 17464619,
+    "rows_with_zone": 17464619,
+    "elapsed_s": 6.01
+  },
+  {
+    "task": "fhvhv_tripdata_2023-02",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 2,
+    "total_rows": 17960971,
+    "rows_with_zone": 17960971,
+    "elapsed_s": 5.81
+  },
+  {
+    "task": "fhvhv_tripdata_2023-09",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 9,
+    "total_rows": 19851123,
+    "rows_with_zone": 19851123,
+    "elapsed_s": 5.85
+  },
+  {
+    "task": "fhvhv_tripdata_2023-11",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 11,
+    "total_rows": 19269250,
+    "rows_with_zone": 19269250,
+    "elapsed_s": 5.79
+  },
+  {
+    "task": "fhvhv_tripdata_2024-02",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 2,
+    "total_rows": 19359148,
+    "rows_with_zone": 19359148,
+    "elapsed_s": 5.73
+  },
+  {
+    "task": "fhvhv_tripdata_2024-04",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 4,
+    "total_rows": 19733038,
+    "rows_with_zone": 19733038,
+    "elapsed_s": 5.87
+  },
+  {
+    "task": "fhvhv_tripdata_2024-05",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 5,
+    "total_rows": 20704538,
+    "rows_with_zone": 20704538,
+    "elapsed_s": 5.93
+  },
+  {
+    "task": "fhvhv_tripdata_2024-06",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 6,
+    "total_rows": 20123226,
+    "rows_with_zone": 20123226,
+    "elapsed_s": 5.82
+  },
+  {
+    "task": "fhvhv_tripdata_2024-11",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 11,
+    "total_rows": 19987533,
+    "rows_with_zone": 19987533,
+    "elapsed_s": 5.92
+  },
+  {
+    "task": "fhvhv_tripdata_2024-10",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 10,
+    "total_rows": 20028282,
+    "rows_with_zone": 20028282,
+    "elapsed_s": 5.98
+  },
+  {
+    "task": "fhvhv_tripdata_2022-09",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 9,
+    "total_rows": 17793551,
+    "rows_with_zone": 17793551,
+    "elapsed_s": 6.13
+  },
+  {
+    "task": "fhvhv_tripdata_2023-01",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 1,
+    "total_rows": 18479031,
+    "rows_with_zone": 18479031,
+    "elapsed_s": 6.13
+  },
+  {
+    "task": "fhvhv_tripdata_2023-03",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 3,
+    "total_rows": 20413539,
+    "rows_with_zone": 20413539,
+    "elapsed_s": 6.17
+  },
+  {
+    "task": "fhvhv_tripdata_2023-04",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 4,
+    "total_rows": 19144903,
+    "rows_with_zone": 19144903,
+    "elapsed_s": 6.15
+  },
+  {
+    "task": "fhvhv_tripdata_2022-05",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 5,
+    "total_rows": 18157335,
+    "rows_with_zone": 18157335,
+    "elapsed_s": 6.06
+  },
+  {
+    "task": "fhvhv_tripdata_2023-10",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 10,
+    "total_rows": 20186330,
+    "rows_with_zone": 20186330,
+    "elapsed_s": 6.14
+  },
+  {
+    "task": "fhvhv_tripdata_2023-12",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 12,
+    "total_rows": 20516297,
+    "rows_with_zone": 20516297,
+    "elapsed_s": 6.04
+  },
+  {
+    "task": "fhvhv_tripdata_2024-03",
+    "taxi_type": "fhvhv",
+    "year": 2024,
+    "month": 3,
+    "total_rows": 21280788,
+    "rows_with_zone": 21280788,
+    "elapsed_s": 6.04
+  },
+  {
+    "task": "yellow_tripdata_2011-01",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 1,
+    "total_rows": 13464997,
+    "rows_with_zone": 13464997,
+    "elapsed_s": 6.11
+  },
+  {
+    "task": "yellow_tripdata_2011-02",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 2,
+    "total_rows": 14202809,
+    "rows_with_zone": 14202809,
+    "elapsed_s": 6.22
+  },
+  {
+    "task": "yellow_tripdata_2012-10",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 10,
+    "total_rows": 14522315,
+    "rows_with_zone": 14522315,
+    "elapsed_s": 6.05
+  },
+  {
+    "task": "yellow_tripdata_2012-11",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 11,
+    "total_rows": 13776030,
+    "rows_with_zone": 13776030,
+    "elapsed_s": 6.1
+  },
+  {
+    "task": "yellow_tripdata_2013-07",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 7,
+    "total_rows": 13823840,
+    "rows_with_zone": 13823840,
+    "elapsed_s": 6.15
+  },
+  {
+    "task": "yellow_tripdata_2016-12",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 12,
+    "total_rows": 10446697,
+    "rows_with_zone": 10446697,
+    "elapsed_s": 6.05
+  },
+  {
+    "task": "yellow_tripdata_2011-05",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 5,
+    "total_rows": 15554868,
+    "rows_with_zone": 15554868,
+    "elapsed_s": 6.51
+  },
+  {
+    "task": "yellow_tripdata_2011-09",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 9,
+    "total_rows": 14626748,
+    "rows_with_zone": 14626748,
+    "elapsed_s": 6.43
+  },
+  {
+    "task": "yellow_tripdata_2012-12",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 12,
+    "total_rows": 14696610,
+    "rows_with_zone": 14696610,
+    "elapsed_s": 6.37
+  },
+  {
+    "task": "yellow_tripdata_2014-09",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 9,
+    "total_rows": 13424350,
+    "rows_with_zone": 13424350,
+    "elapsed_s": 6.42
+  },
+  {
+    "task": "yellow_tripdata_2015-02",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 2,
+    "total_rows": 12442394,
+    "rows_with_zone": 12442394,
+    "elapsed_s": 6.48
+  },
+  {
+    "task": "yellow_tripdata_2015-03",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 3,
+    "total_rows": 13342951,
+    "rows_with_zone": 13342951,
+    "elapsed_s": 6.31
+  },
+  {
+    "task": "yellow_tripdata_2017-03",
+    "taxi_type": "yellow",
+    "year": 2017,
+    "month": 3,
+    "total_rows": 10295441,
+    "rows_with_zone": 10295441,
+    "elapsed_s": 6.25
+  },
+  {
+    "task": "yellow_tripdata_2012-01",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 1,
+    "total_rows": 13058348,
+    "rows_with_zone": 13058348,
+    "elapsed_s": 6.73
+  },
+  {
+    "task": "yellow_tripdata_2014-11",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 11,
+    "total_rows": 13309991,
+    "rows_with_zone": 13309991,
+    "elapsed_s": 6.69
+  },
+  {
+    "task": "fhvhv_tripdata_2021-08",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 8,
+    "total_rows": 14499696,
+    "rows_with_zone": 14499696,
+    "elapsed_s": 4.85
+  },
+  {
+    "task": "fhvhv_tripdata_2022-02",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 2,
+    "total_rows": 16019283,
+    "rows_with_zone": 16019283,
+    "elapsed_s": 5.05
+  },
+  {
+    "task": "fhvhv_tripdata_2021-10",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 10,
+    "total_rows": 16545356,
+    "rows_with_zone": 16545356,
+    "elapsed_s": 5.31
+  },
+  {
+    "task": "fhvhv_tripdata_2022-04",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 4,
+    "total_rows": 17752561,
+    "rows_with_zone": 17752561,
+    "elapsed_s": 5.43
+  },
+  {
+    "task": "fhvhv_tripdata_2022-08",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 8,
+    "total_rows": 17185687,
+    "rows_with_zone": 17185687,
+    "elapsed_s": 5.34
+  },
+  {
+    "task": "fhvhv_tripdata_2022-03",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 3,
+    "total_rows": 18453548,
+    "rows_with_zone": 18453548,
+    "elapsed_s": 6.24
+  },
+  {
+    "task": "fhvhv_tripdata_2022-11",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 11,
+    "total_rows": 18085896,
+    "rows_with_zone": 18085896,
+    "elapsed_s": 6.46
+  },
+  {
+    "task": "fhvhv_tripdata_2023-05",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 5,
+    "total_rows": 19847676,
+    "rows_with_zone": 19847676,
+    "elapsed_s": 6.33
+  },
+  {
+    "task": "fhvhv_tripdata_2023-07",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 7,
+    "total_rows": 19132131,
+    "rows_with_zone": 19132131,
+    "elapsed_s": 6.28
+  },
+  {
+    "task": "fhvhv_tripdata_2023-06",
+    "taxi_type": "fhvhv",
+    "year": 2023,
+    "month": 6,
+    "total_rows": 19366619,
+    "rows_with_zone": 19366619,
+    "elapsed_s": 6.33
+  },
+  {
+    "task": "fhvhv_tripdata_2020-01",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 1,
+    "total_rows": 20569368,
+    "rows_with_zone": 20569368,
+    "elapsed_s": 6.59
+  },
+  {
+    "task": "fhvhv_tripdata_2022-10",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 10,
+    "total_rows": 19306090,
+    "rows_with_zone": 19306090,
+    "elapsed_s": 6.53
+  },
+  {
+    "task": "fhvhv_tripdata_2019-07",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 7,
+    "total_rows": 20303312,
+    "rows_with_zone": 20303312,
+    "elapsed_s": 6.75
+  },
+  {
+    "task": "fhvhv_tripdata_2019-09",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 9,
+    "total_rows": 20069321,
+    "rows_with_zone": 20069321,
+    "elapsed_s": 6.8
+  },
+  {
+    "task": "fhvhv_tripdata_2022-12",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 12,
+    "total_rows": 19665847,
+    "rows_with_zone": 19665847,
+    "elapsed_s": 6.77
+  },
+  {
+    "task": "yellow_tripdata_2011-08",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 8,
+    "total_rows": 13262441,
+    "rows_with_zone": 13262441,
+    "elapsed_s": 6.92
+  },
+  {
+    "task": "yellow_tripdata_2014-04",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 4,
+    "total_rows": 14618759,
+    "rows_with_zone": 14618759,
+    "elapsed_s": 6.88
+  },
+  {
+    "task": "yellow_tripdata_2011-03",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 3,
+    "total_rows": 16066351,
+    "rows_with_zone": 16066351,
+    "elapsed_s": 7.03
+  },
+  {
+    "task": "yellow_tripdata_2011-07",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 7,
+    "total_rows": 14742561,
+    "rows_with_zone": 14742561,
+    "elapsed_s": 7.15
+  },
+  {
+    "task": "yellow_tripdata_2011-06",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 6,
+    "total_rows": 15097861,
+    "rows_with_zone": 15097861,
+    "elapsed_s": 7.16
+  },
+  {
+    "task": "yellow_tripdata_2012-04",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 4,
+    "total_rows": 13427802,
+    "rows_with_zone": 13427802,
+    "elapsed_s": 7.19
+  },
+  {
+    "task": "yellow_tripdata_2011-12",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 12,
+    "total_rows": 14925983,
+    "rows_with_zone": 14925983,
+    "elapsed_s": 7.01
+  },
+  {
+    "task": "yellow_tripdata_2012-06",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 6,
+    "total_rows": 15096468,
+    "rows_with_zone": 15096468,
+    "elapsed_s": 7.03
+  },
+  {
+    "task": "yellow_tripdata_2012-08",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 8,
+    "total_rows": 14381752,
+    "rows_with_zone": 14381752,
+    "elapsed_s": 7.1
+  },
+  {
+    "task": "yellow_tripdata_2013-10",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 10,
+    "total_rows": 15004556,
+    "rows_with_zone": 15004556,
+    "elapsed_s": 7.14
+  },
+  {
+    "task": "yellow_tripdata_2014-02",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 2,
+    "total_rows": 13063794,
+    "rows_with_zone": 13063794,
+    "elapsed_s": 6.94
+  },
+  {
+    "task": "yellow_tripdata_2014-05",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 5,
+    "total_rows": 14774048,
+    "rows_with_zone": 14774048,
+    "elapsed_s": 7.04
+  },
+  {
+    "task": "yellow_tripdata_2014-01",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 1,
+    "total_rows": 13782517,
+    "rows_with_zone": 13782517,
+    "elapsed_s": 7.14
+  },
+  {
+    "task": "yellow_tripdata_2016-01",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 1,
+    "total_rows": 10905067,
+    "rows_with_zone": 10905067,
+    "elapsed_s": 7.06
+  },
+  {
+    "task": "fhvhv_tripdata_2022-06",
+    "taxi_type": "fhvhv",
+    "year": 2022,
+    "month": 6,
+    "total_rows": 17780075,
+    "rows_with_zone": 17780075,
+    "elapsed_s": 5.64
+  },
+  {
+    "task": "fhvhv_tripdata_2019-05",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 5,
+    "total_rows": 22329247,
+    "rows_with_zone": 22329247,
+    "elapsed_s": 7.0
+  },
+  {
+    "task": "fhvhv_tripdata_2019-02",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 2,
+    "total_rows": 20159102,
+    "rows_with_zone": 20159102,
+    "elapsed_s": 6.54
+  },
+  {
+    "task": "fhvhv_tripdata_2019-11",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 11,
+    "total_rows": 21635568,
+    "rows_with_zone": 21635568,
+    "elapsed_s": 7.1
+  },
+  {
+    "task": "yellow_tripdata_2011-04",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 4,
+    "total_rows": 14718973,
+    "rows_with_zone": 14718973,
+    "elapsed_s": 7.35
+  },
+  {
+    "task": "yellow_tripdata_2011-11",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 11,
+    "total_rows": 14525863,
+    "rows_with_zone": 14525863,
+    "elapsed_s": 7.42
+  },
+  {
+    "task": "yellow_tripdata_2013-01",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 1,
+    "total_rows": 14776617,
+    "rows_with_zone": 14776617,
+    "elapsed_s": 7.41
+  },
+  {
+    "task": "yellow_tripdata_2013-03",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 3,
+    "total_rows": 15749228,
+    "rows_with_zone": 15749228,
+    "elapsed_s": 7.31
+  },
+  {
+    "task": "yellow_tripdata_2013-11",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 11,
+    "total_rows": 14388451,
+    "rows_with_zone": 14388451,
+    "elapsed_s": 7.2
+  },
+  {
+    "task": "yellow_tripdata_2012-09",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 9,
+    "total_rows": 14546854,
+    "rows_with_zone": 14546854,
+    "elapsed_s": 7.52
+  },
+  {
+    "task": "yellow_tripdata_2013-05",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 5,
+    "total_rows": 15285052,
+    "rows_with_zone": 15285052,
+    "elapsed_s": 7.58
+  },
+  {
+    "task": "yellow_tripdata_2014-03",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 3,
+    "total_rows": 15428134,
+    "rows_with_zone": 15428134,
+    "elapsed_s": 7.6
+  },
+  {
+    "task": "yellow_tripdata_2014-10",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 10,
+    "total_rows": 14317774,
+    "rows_with_zone": 14317774,
+    "elapsed_s": 7.66
+  },
+  {
+    "task": "yellow_tripdata_2015-10",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 10,
+    "total_rows": 12307333,
+    "rows_with_zone": 12307333,
+    "elapsed_s": 7.57
+  },
+  {
+    "task": "yellow_tripdata_2016-02",
+    "taxi_type": "yellow",
+    "year": 2016,
+    "month": 2,
+    "total_rows": 11375412,
+    "rows_with_zone": 11375412,
+    "elapsed_s": 7.46
+  },
+  {
+    "task": "yellow_tripdata_2015-06",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 6,
+    "total_rows": 12324936,
+    "rows_with_zone": 12324936,
+    "elapsed_s": 7.66
+  },
+  {
+    "task": "fhvhv_tripdata_2019-08",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 8,
+    "total_rows": 20126113,
+    "rows_with_zone": 20126113,
+    "elapsed_s": 5.83
+  },
+  {
+    "task": "fhvhv_tripdata_2020-02",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 2,
+    "total_rows": 21725100,
+    "rows_with_zone": 21725100,
+    "elapsed_s": 6.33
+  },
+  {
+    "task": "fhvhv_tripdata_2019-03",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 3,
+    "total_rows": 23864598,
+    "rows_with_zone": 23864598,
+    "elapsed_s": 7.46
+  },
+  {
+    "task": "yellow_tripdata_2012-02",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 2,
+    "total_rows": 13361345,
+    "rows_with_zone": 13361345,
+    "elapsed_s": 8.16
+  },
+  {
+    "task": "yellow_tripdata_2014-12",
+    "taxi_type": "yellow",
+    "year": 2014,
+    "month": 12,
+    "total_rows": 13112117,
+    "rows_with_zone": 13112117,
+    "elapsed_s": 8.12
+  },
+  {
+    "task": "yellow_tripdata_2011-10",
+    "taxi_type": "yellow",
+    "year": 2011,
+    "month": 10,
+    "total_rows": 15697804,
+    "rows_with_zone": 15697804,
+    "elapsed_s": 8.34
+  },
+  {
+    "task": "fhvhv_tripdata_2021-12",
+    "taxi_type": "fhvhv",
+    "year": 2021,
+    "month": 12,
+    "total_rows": 16054495,
+    "rows_with_zone": 16054495,
+    "elapsed_s": 6.89
+  },
+  {
+    "task": "fhvhv_tripdata_2019-04",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 4,
+    "total_rows": 21734822,
+    "rows_with_zone": 21734822,
+    "elapsed_s": 6.63
+  },
+  {
+    "task": "fhvhv_tripdata_2019-10",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 10,
+    "total_rows": 21162290,
+    "rows_with_zone": 21162290,
+    "elapsed_s": 6.5
+  },
+  {
+    "task": "fhvhv_tripdata_2019-06",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 6,
+    "total_rows": 21001990,
+    "rows_with_zone": 21001990,
+    "elapsed_s": 6.53
+  },
+  {
+    "task": "fhvhv_tripdata_2019-12",
+    "taxi_type": "fhvhv",
+    "year": 2019,
+    "month": 12,
+    "total_rows": 22243901,
+    "rows_with_zone": 22243901,
+    "elapsed_s": 6.89
+  },
+  {
+    "task": "yellow_tripdata_2015-01",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 1,
+    "total_rows": 12741035,
+    "rows_with_zone": 12741035,
+    "elapsed_s": 8.5
+  },
+  {
+    "task": "yellow_tripdata_2015-04",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 4,
+    "total_rows": 13063758,
+    "rows_with_zone": 13063758,
+    "elapsed_s": 8.48
+  },
+  {
+    "task": "yellow_tripdata_2013-06",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 6,
+    "total_rows": 14385456,
+    "rows_with_zone": 14385456,
+    "elapsed_s": 8.72
+  },
+  {
+    "task": "yellow_tripdata_2013-09",
+    "taxi_type": "yellow",
+    "year": 2013,
+    "month": 9,
+    "total_rows": 14107693,
+    "rows_with_zone": 14107693,
+    "elapsed_s": 8.86
+  },
+  {
+    "task": "yellow_tripdata_2012-07",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 7,
+    "total_rows": 14379307,
+    "rows_with_zone": 14379307,
+    "elapsed_s": 9.12
+  },
+  {
+    "task": "yellow_tripdata_2015-05",
+    "taxi_type": "yellow",
+    "year": 2015,
+    "month": 5,
+    "total_rows": 13157677,
+    "rows_with_zone": 13157677,
+    "elapsed_s": 9.06
+  },
+  {
+    "task": "yellow_tripdata_2012-03",
+    "taxi_type": "yellow",
+    "year": 2012,
+    "month": 3,
+    "total_rows": 16146923,
+    "rows_with_zone": 16146923,
+    "elapsed_s": 9.75
+  },
+  {
+    "task": "fhvhv_tripdata_2020-10",
+    "taxi_type": "fhvhv",
+    "year": 2020,
+    "month": 10,
+    "total_rows": 13268411,
+    "rows_with_zone": 13268411,
+    "elapsed_s": 10.76
+  }
+]
