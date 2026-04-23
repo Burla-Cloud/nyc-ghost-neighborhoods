@@ -2,6 +2,12 @@
 
 **Live site: <https://burla-cloud.github.io/nyc-ghost-neighborhoods/>**
 
+## Try it in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Burla-Cloud/nyc-ghost-neighborhoods/blob/main/Burla_NYCGhostNeighborhoods_Demo.ipynb)
+
+Follow along in a notebook - scan 36 months of NYC taxi parquet across 12 cloud workers and find emergent / declining neighborhoods. About 3 minutes. No prior Burla knowledge needed.
+
 Process **every single NYC taxi & for-hire-vehicle trip ever released by the
 TLC** — 2,758,715,765 rows across 168 monthly parquet files, January 2011 →
 December 2024 — and let the *geography itself* tell you which neighborhoods
